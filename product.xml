@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <Product Id="1">
+    <name>register</name>
+    <price>1000</price>
+    <description>abc</description>
+    <stock>40</stock>
+  </Product>
+  <Product Id="2">
+    <name>capacitors</name>
+    <price>2000</price>
+    <description>xyz</description>
+    <stock>12</stock>
+  </Product>
+  <Product Id="3">
+    <name>transistors</name>
+    <price>1233</price>
+    <description>ashs</description>
+    <stock>12</stock>
+  </Product>
+  <Product Id="4">
+    <name>abs</name>
+    <price>1212</price>
+    <description>asd</description>
+    <stock>12</stock>
+  </Product>
+</Products>
